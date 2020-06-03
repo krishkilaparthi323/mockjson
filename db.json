@@ -8,7 +8,7 @@
       {"Date":"7/06/2020","Region":"East","Rep":"Nandu","Unit":"55","UnitCost":"1.88","Total":"103.4"},
       {"Date":"4/20/2020","Region":"North","Rep":"Krish","Unit":"65","UnitCost":"3.98","Total":"258.75"},
       {"Date":"7/26/2020","Region":"East","Rep":"Nandu","Unit":"57","UnitCost":"2.98","Total":"169.86"},
-      {"Date":"2/21/2020","Region":"west","Rep":"ravan","Unit":"58","UnitCost":"4.98","Total":"288.84"},
+      {"Date":"2/21/2020","Region":"West","Rep":"ravan","Unit":"58","UnitCost":"4.98","Total":"288.84"},
       {"Date":"1/26/2020","Region":"South","Rep":"samuel","Unit":"35","UnitCost":"7.98","Total":"279.3"},
       {"Date":"1/30/2020","Region":"North","Rep":"krish","Unit":"85","UnitCost":"2.98","Total":"253.3"},
       {"Date":"6/20/2020","Region":"East","Rep":"samuel","Unit":"35","UnitCost":"2.88","Total":"198.75"},
