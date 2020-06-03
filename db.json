@@ -1,5 +1,5 @@
 {
-sales:{
+"sales":{
 {"Date":"5/20/2020","Region":"West","Rep":"Nandu","Unit":"95","UnitCost":"1.98","Total":"188.1"},
 {"Date":"3/10/2020","Region":"East","Rep":"Nalli","Unit":"85","UnitCost":"0.98","Total":"83.3"},
 {"Date":"2/10/2020","Region":"South","Rep":"susndu","Unit":"44","UnitCost":"2.98","Total":"131.2"},
