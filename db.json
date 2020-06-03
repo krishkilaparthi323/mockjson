@@ -17,4 +17,5 @@ sales:{
 {"Date":"1/10/2020","Region":"South","Rep":"Nalli","Unit":"65","UnitCost":"6.98","Total":"453.75"},
 {"Date":"7/8/2020","Region":"North","Rep":"Nanna","Unit":"25","UnitCost":"2.98","Total":"198.75"},
 {"Date":"2/20/2020","Region":"West","Rep":"Nan","Unit":"25","UnitCost":"1.98","Total":"49.5"},
-
+}
+}
